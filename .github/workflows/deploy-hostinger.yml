@@ -2,7 +2,7 @@ name: Deploy alexi-mind-map to Diun
 
 on:
   push:
-    branches: ["vova_new"]
+    branches: ["main"]
 
 jobs:
   deploy:
